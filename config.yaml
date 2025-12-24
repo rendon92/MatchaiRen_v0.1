@@ -1,0 +1,20 @@
+species: Danio_rerio
+
+celltypes:
+  - RPE
+#  - stalk
+#  - placode
+#  - diencephalon
+#  - telencephalon
+#  - retina
+
+strands:
+  - forward
+  - reverse
+
+species_info:
+  Danio_rerio:
+    genome_fasta: reference/genomes/Danio_rerio.fa
+    annotation_gtf: reference/annotations/Danio_rerio.gtf
+    orthologs_to_human: reference/orthologs/zebra_human.tsv
+    orthologs_to_mouse: reference/orthologs/zebra_mouse.tsv
