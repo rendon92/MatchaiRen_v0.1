@@ -1,0 +1,18 @@
+# Snakemake
+.snakemake/
+.cache/
+
+# Outputs
+results/
+
+# Python
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
+
+# Logs
+*.log
+
